@@ -4,4 +4,8 @@ matplotlib
 tensorflow
 opencv-python
 seaborn
--e .
+scikit-learn
+pillow
+dask
+dask[complete]
+#-e .
