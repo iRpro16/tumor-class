@@ -1,6 +1,13 @@
+# Virtual environment
 .venv
+
+# Data set / models 
 brain-mri
+notebook
+models
+
+# Notes
 notes.txt
+
+# Info
 tumor_class.egg-info
-EDA.ipynb
-MODEL TRAINING.ipynb
